@@ -1,4 +1,5 @@
 {
+    "version": "4.0.8",
     "private": true,
     "name": "botbuilder-packages",
     "scripts": {
